@@ -1,0 +1,23 @@
+{
+  "id": "2744046",
+  "name": "集长工联",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10138874",
+      "name": "选中",
+      "font_class": "xuanzhong",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
+      "icon_id": "2811581",
+      "name": "选中三角形",
+      "font_class": "xuanzhongsanjiaoxing",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
